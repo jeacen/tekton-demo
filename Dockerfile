@@ -1,4 +1,5 @@
 FROM golang:1.14-alpine
+MAINTAINER test
 
 WORKDIR /go/src/app
 COPY . .
