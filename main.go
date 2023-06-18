@@ -9,3 +9,4 @@ func sum(a, b int) int {
 func main() {
 	fmt.Println("Sum: ", sum(1, 2))
 }
+
